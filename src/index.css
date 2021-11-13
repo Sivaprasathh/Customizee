@@ -1,0 +1,67 @@
+.default {
+  border: 2px solid black;
+  margin-top: 0.5rem;
+  padding-left: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+  background: lightslategrey;
+}
+
+body {
+  background-image: url("../src/assets/background.jpg");
+  height: 100%;
+  background-size: cover;
+  background-repeat: none;
+  opacity: 0.8;
+}
+
+.title {
+  font-style: italic;
+  font-size: xx-large;
+  color: brown;
+  text-align: center;
+}
+.btn {
+  text-decoration: none;
+  color: navajowhite;
+  font-style: italic;
+  font-size: 15px;
+}
+.btnn {
+  text-decoration: none;
+  color: brown;
+  font-style: italic;
+  font-size: 15px;
+  float: right;
+}
+
+.right-button {
+  cursor: pointer;
+  float: right;
+}
+.submit {
+  margin-top: 10px;
+  margin-left: 670px;
+}
+.list-item {
+  display: inline-block;
+}
+
+.App {
+  text-align: center;
+  padding: 5%;
+}
+.body-add {
+  background-image: url("../src/assets/start.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form-div-add {
+  width: 390px;
+  margin-left: 80px;
+  padding: 30px 0;
+}
